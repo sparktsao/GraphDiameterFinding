@@ -2,7 +2,7 @@
 Name: GraphDiameterMiner
 Do connected component and longest path finding using pregel API
 Output: VertexId, LongestPath, Lowest VertexId In the Connected Graph
-Author: spark_tsao@trend.com.tw
+Author: linhots.tsao@gmail.com
 */
 
 import org.apache.spark.SparkContext
